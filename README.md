@@ -1,7 +1,7 @@
 ### >> Hello, World! :computer:
 
 Sou estudante de Tecnólogo em Sistemas para Internet na FATEC Taquaritinga.
-Possuo conhecimentos em HTML, CSS, JavaScript e Bootstrap, além de criação de layouts em WordPress em Blogger.
+Possuo conhecimentos em HTML, CSS, JavaScript e Bootstrap, além de criação de layouts em WordPress e Blogger.
 
 Rumo ao Full-Stack :dart:
 
