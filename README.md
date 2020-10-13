@@ -13,7 +13,7 @@ let instituicao = Fatec Taquaritinga
   * CSS
   * JavaScript :star:
   * Bootstrap
-  * Layouts para WordPress e Blogger
+  * WordPress/Blogger
 
 * ##### Desktop
   * Java
