@@ -1,9 +1,27 @@
-### >> Hello, World! :computer:
+### »Hello, World! :computer: :wave:
+```javascript
+const nome = Belle Santos
+let status = estudante
+let ciclo = 01/06
+let curso = Tecnologia em Sistemas para Internet
+let instituicao = Fatec Taquaritinga
+```
+------
 
-Sou estudante de Tecnólogo em Sistemas para Internet na FATEC Taquaritinga.
-Possuo conhecimentos em HTML, CSS, JavaScript e Bootstrap, além de criação de layouts em WordPress e Blogger.
+* ##### Web
+  * HTML
+  * CSS
+  * JavaScript :star:
+  * Bootstrap
+  * Layouts para WordPress e Blogger
 
-Rumo ao Full-Stack :dart:
+* ##### Desktop
+  * Java
+  * MySQL
+
+* Conhecimento vago em PHP e C
+
+#### __Rumo ao Full-Stack__ :dart: :books:
 
 <!--
 **cristianebeel/cristianebeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
