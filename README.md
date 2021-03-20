@@ -2,7 +2,7 @@
 ```javascript
 const nome = Belle Santos
 let status = estudante
-let ciclo = 01/06
+let ciclo = 02/06
 let curso = Tecnologia em Sistemas para Internet
 let instituicao = Fatec Taquaritinga
 ```
