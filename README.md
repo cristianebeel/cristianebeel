@@ -12,7 +12,7 @@ let instituicao = Fatec Taquaritinga
 	* HTML :star::star::star:
 	* CSS :star::star::star:
 	* JavaScript :star::star::dart:
-	* Vue.js / Nuxt.js :star::dart:
+	* Vue.js / Nuxt.js :star::star::star::dart:
 	* WordPress/Blogger :star:
 	* Bootstrap :star:
 	* Tailwind :star::dart:
