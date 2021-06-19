@@ -19,9 +19,10 @@ let instituicao = Fatec Taquaritinga
 	* PHP :star:
 
 * ##### Desktop
-	* Java :star::star:
+	* Java :star::star::star:
 	* MySQL :star::star:
 	* C :star:
+	* Python :star:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianebeel)](https://github.com/cristianebeel/github-readme-stats)
 
