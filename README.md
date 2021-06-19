@@ -15,7 +15,9 @@ let instituicao = Fatec Taquaritinga
 	* Vue.js / Nuxt.js :star::star::star::dart:
 	* WordPress/Blogger :star:
 	* Bootstrap :star:
-	* Tailwind :star::dart:
+	* Tailwind :star::star::dart:
+	* Bulma :star:
+	* SASS/SCSS :star:
 	* PHP :star:
 
 * ##### Desktop
